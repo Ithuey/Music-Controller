@@ -1,2 +1,5 @@
 .env
 music_controller/settings.py
+db.sqlite3
+manage.py
+spotify/credentials.py
